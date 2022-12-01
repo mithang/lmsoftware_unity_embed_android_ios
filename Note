@@ -1,0 +1,10 @@
+1. Hướng dẫn tích hợp unity vào ios và android
+- docs/android.md
+- docs/ios.md
+2. Run dự án:
+- IOS yêu cầu thiết bị thật không thì dễ bị lỗi UnityFramework.h file not found
+- Android có thể cần, có thể không
+3. Trên android khi tích hợp và chạy thì nó show 2 icon và 2 app
+- Vào AndroidManifest.xml của unityLibrary xoá dòng code
+4. Tham khảo
+https://github.com/Unity-Technologies/uaal-example/blob/master/docs/android.md
