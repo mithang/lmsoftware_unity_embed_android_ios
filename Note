@@ -10,3 +10,5 @@
 https://github.com/Unity-Technologies/uaal-example/blob/master/docs/android.md
 5. Chú ý các folder androidBuild, iosBuild có thể không đẩy lên, vì có thể build lại, vì trong iosBuild
 có file lớn >100MB
+6. Tương tác với react native
+https://github.com/asmadsen/react-native-unity-view
